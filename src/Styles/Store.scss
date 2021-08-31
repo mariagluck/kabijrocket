@@ -1,0 +1,34 @@
+.Store {
+    border: 10px solid #2f4353;
+    background-image: linear-gradient(315deg, #2f4353 0%, #d2ccc4 74%);
+    height: 100vh;
+    background-color: lightblue;
+    box-sizing: border-box;
+    z-index: 2;
+    
+
+    .btn {
+        border: 3px solid #2f4353;
+        background-image: linear-gradient(360deg, #2f4353 0%, #d2ccc4 74%);
+        height: 100px; 
+        width: 100%;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        padding-top: 10px;
+
+
+        .addOnicon {
+            height: 70px;
+            width: auto;
+        }
+
+        .stats {
+            display: flex;
+            flex-direction: column;
+            text-align: left;
+            padding: 5px;
+        }
+       
+    }
+}

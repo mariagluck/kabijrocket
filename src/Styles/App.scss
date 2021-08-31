@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+
+    // darksky
+    background-image: url("../resources/dark_sky_by_dennis_rochel.jpg");
+    background-size: cover;
+
+    //bluesky
+    // background-image: url("../resources/blueSky_by_dave-hoefler.jpg");
+    // background-size: cover;
+
+    // redsky
+    // background-image: url("../resources/globalWarming_by_vivek-doshi.jpg");
+    // background-size: cover;
+}
+
+.gameWrapper {
+    display: grid;
+    grid-template-columns: 17.8fr 5fr;
+    grid-template-rows: 1fr;
+    gap: 0px 0px;
+    grid-template-areas: "Map Store";
+    width: 100%;
+    height: 100%;
+    .Map {
+        grid-area: Map;
+    }
+    .Store {
+        grid-area: Store;
+    }
+   
+}
