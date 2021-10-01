@@ -1,5 +1,5 @@
 # KabijRocket
-Idle Clicker Game with a Rocket, Robots and TerraForming
+Idle Clicker Game with a Rocket, Robots and TerraForming 
 
 Development
 ----------
@@ -20,6 +20,7 @@ Development
 6. graphic development of the addons/items listed
 
 7. music composition (starting or on hold)
+8. (further development of graphics and addons and upgrades --> under construction)
 
 CODE SPECIFICS
 --------------
