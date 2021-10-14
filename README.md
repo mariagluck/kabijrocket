@@ -13,7 +13,7 @@ Development
 4. Developed a Mockup design for game development and design. Task and code components divison.
 
 5. Starting process: 
-    * Game conceptrocket lands in earth and builds robots by clicks, and the more robots the more terraforming is happening : water, rain, vegetation, animals, settlements. As player hits the rocket more robots are produced and a countdown shows the status. THe more robots the more the player can upgrade the terraforming, add water, first as cloud, then as rain, then as river, etc... addons cost robots but also multiply the new robots you get. Ground of the planet gets exponentially green as well, and the sky should get more blue . If the terraforming gets too advanced (mining, constructions, etc...) the planet ground will go desertic and the sky too (global warming!).
+    * Game concept: a rocket lands in earth and builds robots by clicks, and the more robots the more terraforming is happening : water, rain, vegetation, animals, settlements. As player hits the rocket more robots are produced and a countdown shows the status. THe more robots the more the player can upgrade the terraforming, add water, first as cloud, then as rain, then as river, etc... addons cost robots but also multiply the new robots you get. Ground of the planet gets exponentially green as well, and the sky should get more blue . If the terraforming gets too advanced (mining, constructions, etc...) the planet ground will go desertic and the sky too (global warming!).
     * design and color palette
     * discussed coding idea/concept and development
 
