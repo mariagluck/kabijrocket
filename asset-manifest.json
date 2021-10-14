@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/kabijrocket_game/static/css/main.4ea3fe67.chunk.css",
+    "main.js": "/kabijrocket_game/static/js/main.162b1d52.chunk.js",
+    "main.js.map": "/kabijrocket_game/static/js/main.162b1d52.chunk.js.map",
+    "runtime-main.js": "/kabijrocket_game/static/js/runtime-main.7be9d7f5.js",
+    "runtime-main.js.map": "/kabijrocket_game/static/js/runtime-main.7be9d7f5.js.map",
+    "static/js/2.fab28965.chunk.js": "/kabijrocket_game/static/js/2.fab28965.chunk.js",
+    "static/js/2.fab28965.chunk.js.map": "/kabijrocket_game/static/js/2.fab28965.chunk.js.map",
+    "index.html": "/kabijrocket_game/index.html",
+    "static/css/main.4ea3fe67.chunk.css.map": "/kabijrocket_game/static/css/main.4ea3fe67.chunk.css.map",
+    "static/js/2.fab28965.chunk.js.LICENSE.txt": "/kabijrocket_game/static/js/2.fab28965.chunk.js.LICENSE.txt",
+    "static/media/cloud.43cafc6d.png": "/kabijrocket_game/static/media/cloud.43cafc6d.png",
+    "static/media/cloud_rain.5e9e2dcd.png": "/kabijrocket_game/static/media/cloud_rain.5e9e2dcd.png",
+    "static/media/App.scss": "/kabijrocket_game/static/media/dark_sky_by_dennis_rochel.29b0fe59.jpg",
+    "static/media/mining.0a1ddbc8.png": "/kabijrocket_game/static/media/mining.0a1ddbc8.png",
+    "static/media/mountains3.703913f6.png": "/kabijrocket_game/static/media/mountains3.703913f6.png",
+    "static/media/river.159f4df8.png": "/kabijrocket_game/static/media/river.159f4df8.png",
+    "static/media/skyscrapers.b5cd8565.png": "/kabijrocket_game/static/media/skyscrapers.b5cd8565.png",
+    "static/media/tippi.79bd3c06.png": "/kabijrocket_game/static/media/tippi.79bd3c06.png",
+    "static/media/water.6607c459.png": "/kabijrocket_game/static/media/water.6607c459.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7be9d7f5.js",
+    "static/js/2.fab28965.chunk.js",
+    "static/css/main.4ea3fe67.chunk.css",
+    "static/js/main.162b1d52.chunk.js"
+  ]
+}
