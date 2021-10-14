@@ -31,7 +31,6 @@ export default function App(){
     return <div className="gameWrapper">
         <RobotCounterContext.Provider value ={[robotCounter,setRobotCounter]}>
             <RobotPerSecond.Provider value = {[rpsCounter,setRpsCounter]}>
-                
                         <Map/>
                         <Store/>          
             </RobotPerSecond.Provider>
